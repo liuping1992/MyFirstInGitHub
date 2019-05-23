@@ -1,0 +1,3 @@
+≤‚ ‘≥ÂÕª£∫
+  git did not exit cleanly (code 1)
+  git did not exit cleanly (code 128)
